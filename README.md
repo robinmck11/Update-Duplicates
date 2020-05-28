@@ -20,6 +20,8 @@ sudo apt update
 sudo apt-install ruby
 ```
 
+The program does not currently support unsorted csv files. The csv file must be sorted in Alphabetical order and must be sorted by the column that you would like to update.
+
 # Description
 
 Given a list of values in a csv column:
